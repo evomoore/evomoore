@@ -29,8 +29,6 @@ Before NBCUniversal, I held product and commerce leadership roles across digital
 * VP of Digital Product at goop
 * Product & commerce leadership roles at Ticketmaster, Beautycounter, DailyCandy, Shopzilla and others
 
-I hold an MBA from UCLA Anderson and a BS in Computational Information Systems from Brooklyn College.
-
 ---
 
 ## 👨‍💻 Why I’m on GitHub
@@ -45,30 +43,9 @@ This GitHub is where I:
 
 ---
 
-## 🧠 What I’m Interested In
-
-* Agentic commerce & autonomous buying systems
-* Commerce infrastructure for niche verticals (fitness, live events, creator ecosystems)
-* The future of retail and commerce media
-* Tools that reduce friction between inspiration and transaction
-
----
-
 ## 🏃 Outside of Work
 
 * Long-distance running enthusiast
 * Travel + food explorer
 * Constant tinkerer with product ideas
 
----
-
-## 🤝 Let’s Connect
-
-If you're building in:
-
-* Commerce infrastructure
-* Retail media
-* AI-native product experiences
-* Vertical SaaS in media or events
-
-… I’m always interested in swapping notes.
